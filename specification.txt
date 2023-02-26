@@ -1,0 +1,5 @@
+- với các tin nhắn ko có nội dung, ví dụ như gọi nhỡ thì nội dung tin nhắn sẽ phải là tên file ảnh tương ứng
+- 20s cuối chỉ chạy nền
+- tùy chọn intro
+- Fake đồng hồ, theo độ dài tin nhắn
+- 

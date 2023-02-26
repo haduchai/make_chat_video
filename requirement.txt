@@ -1,0 +1,4 @@
+moviePy
+python==3.9.12
+opencv-python-headless
+pillow

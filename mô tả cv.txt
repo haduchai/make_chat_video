@@ -1,0 +1,11 @@
+Overview: App sinh video hội thoại giả
+Input: Nội dung tin nhắn dạng text, voice của từng tin nhắn, các asset phụ
+Output: Như video mẫu
+
+Các tính năng bao gồm:
+- Nhập tên, chọn avatar cho (những) người tham gia hội thoại
+- Chọn file tin nhắn, chọn file âm thanh
+
+Ngôn ngữ bất kỳ, app web đều được miễn là có ui để ấn, output ra video như thế :v
+
+Deadline 1 tuần, cụ thể là ngày 21/2
